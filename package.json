@@ -1,0 +1,23 @@
+{
+  "name": "translate",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArkadiuszU/translate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArkadiuszU/translate/issues"
+  },
+  "homepage": "https://github.com/ArkadiuszU/translate#readme",
+  "dependencies": {
+    "translatte": "^3.0.1"
+  }
+}
